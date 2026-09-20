@@ -12,11 +12,11 @@ Python 範例、完整程式碼與常見問題。
 2. [Sensors 感測器模組](./02_Sensors感測器模組使用手冊.md)
 3. [Depth Sensing 深度感知模組](./03_Depth_Sensing深度感知模組使用手冊.md)
 4. [Positional Tracking 位置追蹤模組](./04_Positional_Tracking位置追蹤模組使用手冊.md)
-5. [Spatial Mapping 空間映射模組](./ZED_空間映射使用手冊.md)
-6. [Global Localization 全球定位模組](./05_Global_Localization全球定位模組使用手冊.md)
-7. [Object Detection 物件偵測模組](./06_Object_Detection物件偵測模組使用手冊.md)
-8. [Body Tracking 人體追蹤模組](./07_Body_Tracking人體追蹤模組使用手冊.md)
-9. [Fusion 多相機融合模組](./08_Fusion多相機融合模組使用手冊.md)
+5. [Global Localization 全球定位模組](./05_Global_Localization全球定位模組使用手冊.md)
+6. [Spatial Mapping 空間映射模組](./06_Spatial_Mapping空間映射模組使用手冊.md)
+7. [Object Detection 物件偵測模組](./07_Object_Detection物件偵測模組使用手冊.md)
+8. [Body Tracking 人體追蹤模組](./08_Body_Tracking人體追蹤模組使用手冊.md)
+9. [Fusion 多相機融合模組](./09_Fusion多相機融合模組使用手冊.md)
 
 ## 版本基準
 
